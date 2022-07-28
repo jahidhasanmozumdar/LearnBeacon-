@@ -1,0 +1,11 @@
+.banner_img{
+    filter: brightness(50%);
+}
+.icon_color{
+   color: gold;
+   font-size: 1.5rem;
+}
+.zero_icon{
+    color: gold;
+    font-size: 1.5rem;
+}
